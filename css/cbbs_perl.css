@@ -1,0 +1,10 @@
+p.hot  {color: red;}
+.cool  {color: blue;}
+.black {color: black;}
+ 
+h1 {color: black;}
+h2 {color: blue;}
+
+A:link { color: green; }
+A:visited { color: blue; }
+A:active { color: white; }
